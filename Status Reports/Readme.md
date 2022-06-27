@@ -11,8 +11,8 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 | `Jun 01` | Acceptance Letter Sent | There was a mix-up with the email | |
 | `Jun 08` | Initial Kickoff meeting | 7:00 pm EDT (4:30 am IST) | |
 | `Jun 09 - Jun 10` | Week 1 [Status Report](./week01.md) | Offer sent out and accepted | |
-| `Jun 13 - Jun 17` | Week 2 [Status Report](./week02.md) | Initial onboarding | [Hello World command](https://github.com/sarthakjdev/zowe-cli/tree/test-hello-world-creations) |
-| `Jun 20 - Jun 24` | Week 3 [Status Report](./week03.md) | Working on [zowe/zowe-cli#1443](https://github.com/zowe/zowe-cli/issues/1443) | |
+| `Jun 13 - Jun 17` | Week 2 [Status Report](./week02.md) | Initial onboarding | [Hello World command](https://github.com/sarthakjdev/zowe-cli/tree/test-hello-world-creations) | 
+| `Jun 20 - Jun 24` | Week 3 [Status Report](./week03.md) | Working on [zowe/zowe-cli#1443](https://github.com/zowe/zowe-cli/issues/1443) | [Initial PR Solving the issue](https://github.com/zowe/zowe-cli/pull/1460) |
 | `Jun 27 - Jul 01` | Week 4 [Status Report](./week04.md) | | |
 | `Jul 04 - Jul 08` | Week 5 [Status Report](./week05.md) | | |
 | `Jul 11 - Jul 15` | Week 6 [Status Report](./week06.md) | | |
