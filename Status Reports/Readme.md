@@ -5,6 +5,10 @@ Project Plan Template: https://github.com/openmainframeproject-internship/resour
 
 Status Report Template: https://github.com/openmainframeproject-internship/resources/blob/master/forms/Weekly%20Project%20Status.docx
 
+Project Repository: https://github.com/zowe/zowe-cli
+
+Related Repository: https://github.com/zowe/imperative
+
 | Dates | Document | Description | Document Name |
 |---|---|---|---|
 | - | Project Plan | Overall week by week plan of milestones | - |
