@@ -18,8 +18,8 @@ Related Repository: https://github.com/zowe/imperative
 | `Jun 13 - Jun 17` | Week 2 [Status Report](./week02.md) | Initial onboarding | [Hello World command](https://github.com/sarthakjdev/zowe-cli/tree/test-hello-world-creations) | 
 | `Jun 20 - Jun 24` | Week 3 [Status Report](./week03.md) | Working on [zowe/zowe-cli#1443](https://github.com/zowe/zowe-cli/issues/1443) | [Initial PR Solving the issue](https://github.com/zowe/zowe-cli/pull/1460) |
 | `Jun 27 - Jul 01` | Week 4 [Status Report](./week04.md) | Working on file comparison commmand ehancement and transferring web browser diff functionality to the imperative framework. | |
-| `Jul 04 - Jul 08` | Week 5 [Status Report](./week05.md) | | |
-| `Jul 11 - Jul 15` | Week 6 [Status Report](./week06.md) | | |
+| `Jul 04 - Jul 08` | Week 5 [Status Report](./week05.md) | Migrated the diff utility fucntion from the command handler's of Zowe CLI to the Imperative Frameworks. | |
+| `Jul 11 - Jul 15` | Week 6 [Status Report](./week06.md) | Completed the unit testing for the zowe cli newly added commands and for the impertaive framework diff utility functions. | |
 | `Jul 18 - Jul 22` | Week 7 [Status Report](./week07.md) | | |
 | `Jul 25 - Jul 29` | Week 8 [Status Report](./week08.md) | | |
 | `Aug 01 - Aug 05` | Week 9 [Status Report](./week09.md) | | |
